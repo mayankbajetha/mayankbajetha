@@ -1,4 +1,4 @@
-![LOGO]()
+![LOGO](https://raw.githubusercontent.com/mayankbajetha/mayankbajetha/refs/heads/main/GITHUB%20BANNER.webp)
 
 
 <h1 align="center">Hi 👋, I'm Mayank Singh Bajetha</h1>
